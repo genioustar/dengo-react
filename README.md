@@ -37,4 +37,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-post data : {"id":10,"title":"123","enable":false,"target":{"1":[11]},"period_type":0,"period_value":0,"start_dt":"2023-03-09T09:55:28.008906","reg_dt":"2023-03-09T09:55:28.008944"}
+post data : {"id":12,"title":"123","enable":false,"target":{"1":[11]},"period_type":0,"period_value":0,"start_dt":"2023-03-09T09:55:28.008906","reg_dt":"2023-03-09T09:55:28.008944"}

@@ -2,10 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -41,6 +37,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+post data : {"id":10,"title":"123","enable":false,"target":{"1":[11]},"period_type":0,"period_value":0,"start_dt":"2023-03-09T09:55:28.008906","reg_dt":"2023-03-09T09:55:28.008944"}
